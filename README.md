@@ -6,23 +6,21 @@ awesome list of databases, datasets, software, models and other datascience reso
 >[Wikipedia](https://en.wikipedia.org/wiki/Biomaterial)
 
 ## Contents
-
 - [Databases](#databases)
-  - [scRNA](#scrna)
-    
-## Contents
-- [Databases](#Databases)
-- [Datasets](#Datasets)
-- [Tools](#Tools)
-  - [Computer vision](#Computer vision)
-  - [Text mining](#Text mining)
-- [Key papers](#Key datascience papers)
-- [Miscellaneous](#Misscellaneous)
+  - [Proteins/genes](#protein)
+  - [Diseases](#disease)
+  - [Interactions](#interaction)
+- [Datasets](#datasets)
+- [Tools](#tools)
+  - [Image analysis](#image-analysis)
+  - [Text mining](#text-mining)
+- [Key datascience papers](#key-datascience-papers)
+- [Miscellaneous](#miscellaneous)
 
 ## Databases
 ## Datasets
 ## Tools
+### Image analysis
 ### Text mining
-### Computer vision
 ## Key datascience papers
 ## Miscellaneous
