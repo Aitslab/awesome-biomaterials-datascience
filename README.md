@@ -16,6 +16,8 @@ databases, datasets, software, models and other datascience resources for studyi
   - [Image analysis](#image-analysis)
   - [Text processing (NLP)](#text-processing-(nlp))
 - [Key papers](#key-papers)
+  - [Reviews](#reviews)
+  - [Original articles](#original-articles)
 - [Educational resources](#educational-resources)
 - [Projects](#projects)
 - [Miscellaneous](#miscellaneous)
@@ -38,6 +40,9 @@ databases, datasets, software, models and other datascience resources for studyi
 - [EasyNER](https://github.com/Aitslab/EasyNER) - Customizable easy-to-use text mining tool for medicine/life science.
 - [DEBBIE pipeline](https://github.com/ProjectDebbie/DEBBIE_pipeline) - Text mining pipeline for biomaterial research used for the DEBBIE database.
 ## Key papers
+### Reviews
+[Time to kick-start text mining for biomaterials](https://www.nature.com/articles/s41578-020-0215-z)
+### Original articles
 ## Educational resources
 ## Projects
 - [BiomatDB](https://biomatdb.eu/) - Project aiming to create a database for biomaterials.
