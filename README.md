@@ -7,6 +7,7 @@ databases, datasets, software, models and other datascience resources for studyi
 
 ## Contents
 - [Databases](#databases)
+  - [Materials](#materials)
   - [Proteins/genes](#proteins-genes)
   - [Diseases](#disease)
   - [Images](images)
@@ -19,6 +20,8 @@ databases, datasets, software, models and other datascience resources for studyi
 - [Miscellaneous](#miscellaneous)
 
 ## Databases
+### Materials
+- [MatWeb](https://www.matweb.com/) - Database of material properties.
 ### Proteins/genes
 - [UniProt](https://www.uniprot.org/) - Comprehensive information on proteins (e.g. taxonomy, sequences, functions, localization).
 - [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/) - Protein structures predicted with AlphaFold.
@@ -33,4 +36,6 @@ databases, datasets, software, models and other datascience resources for studyi
 - [EasyNER](https://github.com/Aitslab/EasyNER) - Customizable easy-to-use text mining tool for medicine/life science.
 ## Key papers
 ## Educational resources
+## Ongoing projects
+- [BiomatDB](https://biomatdb.eu/) - Creation of a database for biomaterials. 
 ## Miscellaneous
