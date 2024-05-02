@@ -41,7 +41,7 @@ databases, datasets, software, models and other datascience resources for studyi
 - [DEBBIE pipeline](https://github.com/ProjectDebbie/DEBBIE_pipeline) - Text mining pipeline for biomaterial research used for the DEBBIE database.
 ## Key papers
 ### Reviews
-[Time to kick-start text mining for biomaterials](https://www.nature.com/articles/s41578-020-0215-z)
+- [Time to kick-start text mining for biomaterials](https://www.nature.com/articles/s41578-020-0215-z)
 ### Original articles
 ## Educational resources
 ## Projects
