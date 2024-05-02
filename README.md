@@ -14,7 +14,7 @@ awesome list of databases, datasets, software, models and other datascience reso
   - [Image analysis](#image-analysis)
   - [Text processing (NLP)](#text-processing-(nlp))
 - [Key papers](#key-papers)
-- [Educational resources)(#educational-resources)
+- [Educational resources](#educational-resources)
 - [Miscellaneous](#miscellaneous)
 
 ## Databases
