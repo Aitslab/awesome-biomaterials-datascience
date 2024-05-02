@@ -9,6 +9,7 @@ awesome list of databases, datasets, software, models and other datascience reso
 - [Databases](#databases)
   - [Proteins/genes](#proteins-genes)
   - [Diseases](#disease)
+  - [Images](images)
 - [Datasets](#datasets)
 - [Tools](#tools)
   - [Image analysis](#image-analysis)
@@ -22,6 +23,7 @@ awesome list of databases, datasets, software, models and other datascience reso
 - [UniProt](https://www.uniprot.org/) - Comprehensive information on proteins (e.g. taxonomy, sequences, functions, localization).
 - [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/) - Protein structures predicted with AlphaFold.
 ### Diseases
+### Images
 ## Datasets
 ## Tools
 ### Image analysis
