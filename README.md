@@ -42,6 +42,10 @@ databases, datasets, software, models and other datascience resources for studyi
 ## Key papers
 ### Reviews
 - [Time to kick-start text mining for biomaterials](https://www.nature.com/articles/s41578-020-0215-z)
+- [Biomaterialomics: Data science-driven pathways to develop fourth-generation biomaterials](https://doi.org/10.1016/j.actbio.2022.02.027)
+- [Intelligent Biomaterialomics: Molecular Design, Manufacturing, and Biomedical Applications]( https://doi.org/10.1002/adma.202305099)
+- [Computational Biomaterials: Computational Simulations for Biomedicine](https://doi.org/10.1002/adma.202204798)
+  
 ### Original articles
 ## Educational resources
 ## Projects
