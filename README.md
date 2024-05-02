@@ -17,6 +17,7 @@ databases, datasets, software, models and other datascience resources for studyi
   - [Text processing (NLP)](#text-processing-(nlp))
 - [Key papers](#key-papers)
 - [Educational resources](#educational-resources)
+- [Projects](#projects)
 - [Miscellaneous](#miscellaneous)
 
 ## Databases
@@ -36,6 +37,6 @@ databases, datasets, software, models and other datascience resources for studyi
 - [EasyNER](https://github.com/Aitslab/EasyNER) - Customizable easy-to-use text mining tool for medicine/life science.
 ## Key papers
 ## Educational resources
-## Ongoing projects
-- [BiomatDB](https://biomatdb.eu/) - Creation of a database for biomaterials. 
+## Projects
+- [BiomatDB](https://biomatdb.eu/) - Project aiming to create a database for biomaterials. 
 ## Miscellaneous
