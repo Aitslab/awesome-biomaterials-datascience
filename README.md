@@ -22,6 +22,7 @@ databases, datasets, software, models and other datascience resources for studyi
 
 ## Databases
 ### Materials
+- [DEBBIE](http://debbie.bsc.es/search/) - Database of Experimental Biomaterials and their Biological Effect (DEBBIE).
 - [MatWeb](https://www.matweb.com/) - Database of material properties.
 ### Proteins/genes
 - [UniProt](https://www.uniprot.org/) - Comprehensive information on proteins (e.g. taxonomy, sequences, functions, localization).
@@ -35,8 +36,10 @@ databases, datasets, software, models and other datascience resources for studyi
 - [Cellpose](https://www.cellpose.org/) - A deep learning-based tool for cell and nuclear segmentation.
 ### Text processing (NLP)
 - [EasyNER](https://github.com/Aitslab/EasyNER) - Customizable easy-to-use text mining tool for medicine/life science.
+- [DEBBIE pipeline](https://github.com/ProjectDebbie/DEBBIE_pipeline) - Text mining pipeline for biomaterial research used for the DEBBIE database.
 ## Key papers
 ## Educational resources
 ## Projects
-- [BiomatDB](https://biomatdb.eu/) - Project aiming to create a database for biomaterials. 
+- [BiomatDB](https://biomatdb.eu/) - Project aiming to create a database for biomaterials.
+- [Materials Genome Initiative](https://www.mgi.gov/) - Initiative of several US fedaral agencies for discovering, manufacturing, and deploying advanced materials. [ENDED?]
 ## Miscellaneous
