@@ -28,6 +28,7 @@ awesome list of databases, datasets, software, models and other datascience reso
 ## Tools
 ### Image analysis
 - [CellProfiler](https://cellprofiler.org/) - Software for analysing cell images from high-content screens.
+- [Cellpose](https://www.cellpose.org/) - A tool for cell and nuclear segmentation.
 ### Text processing (NLP)
 - [EasyNER](https://github.com/Aitslab/EasyNER) - Customizable easy-to-use text mining tool for medicine/life science.
 ## Key papers
