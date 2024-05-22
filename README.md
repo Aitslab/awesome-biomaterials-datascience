@@ -26,6 +26,7 @@ databases, datasets, software, models and other datascience resources for studyi
 ### Materials
 - [DEBBIE](http://debbie.bsc.es/search/) - Database of Experimental Biomaterials and their Biological Effect (DEBBIE).
 - [MatWeb](https://www.matweb.com/) - Database of material properties.
+- [Spider Silkome Database](https://spider-silkome.org/) - Sequences and properties of spider silks
 ### Proteins/genes
 - [UniProt](https://www.uniprot.org/) - Comprehensive information on proteins (e.g. taxonomy, sequences, functions, localization).
 - [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/) - Protein structures predicted with AlphaFold.
